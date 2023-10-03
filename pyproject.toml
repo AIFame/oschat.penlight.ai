@@ -83,7 +83,7 @@ ml = [
 # poetry install --all-extras
 
 [tool.poetry.urls]
-"Bug Tracker" = "https://github.com/aiFame/oschat.penlight.ai//issues"
+"Bug Tracker" = "https://github.com/aiFame/oschat.penlight.ai/issues"
 
 [tool.black]
 line-length = 79
